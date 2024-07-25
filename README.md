@@ -1,6 +1,7 @@
 # BootstrapDagger-MFTPLP
 
 ICML 2024：Agnostic Interactive Imitation Learning: New Theory and Practical Algorithms
+
 Paper link: https://proceedings.mlr.press/v235/li24ck.html  arXiv: https://arxiv.org/abs/2312.16860
 
 BootstrapDagger-MFTPLP is an advanced implementation built upon the Disagreement-Regularized Imitation Learning (DRIL) framework https://github.com/xkianteb/dril. It features a new online learning pipeline with support for parallelized ensemble policies. The repository includes implementations of `DAgger`, `MFTPL-P`, and `Bootstrap-DAgger`.
